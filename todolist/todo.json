@@ -1,0 +1,19 @@
+{
+    "tasks": [
+        {
+            "id": 1,
+            "task": "Test",
+            "progression": "Done"
+        },
+        {
+            "id": 3,
+            "task": "Test3",
+            "progression": "In Progress"
+        },
+        {
+            "id": 4,
+            "task": "Hello !",
+            "progression": "In Progress"
+        }
+    ]
+}
